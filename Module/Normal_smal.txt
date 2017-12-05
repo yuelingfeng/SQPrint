@@ -1,0 +1,1 @@
+{'label_Sellprice': {'X': 84, 'Y': 59, 'Name': 'label_Sellprice', 'Width': 141, 'Font': 'Arial,11,-1,5,75,0,0,0,0,0', 'Height': 31}, 'groupBox_labels': {'Height': 236, 'Width': 569}, 'label_ItemName': {'X': 69, 'Y': 14, 'Name': 'label_ItemName', 'Width': 171, 'Font': 'Arial,10,-1,5,50,0,0,0,0,0', 'Height': 31}}
